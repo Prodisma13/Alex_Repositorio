@@ -1,1 +1,1 @@
-<a href="wc.html">Enlace</a>
+<a href="Comandos_Alex/wc.html">Enlace</a>
